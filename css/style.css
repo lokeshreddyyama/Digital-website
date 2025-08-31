@@ -23,7 +23,9 @@
         --bg-image3:url('../images/images12.jpg');
                 
     }
-
+html {
+    scroll-behavior: smooth;
+}
     *>*{
         box-sizing: border-box;
         padding: 0;
